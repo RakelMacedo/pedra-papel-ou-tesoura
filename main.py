@@ -39,7 +39,7 @@ while True:
                 
                 pontos_jogador += 1
         print("---------PLACAR---------")
-        print("EU: " + str(pontos_jogador))
+        print("Eu: " + str(pontos_jogador))
         print("Robô: " + str(pontos_robo))
         print("------------------------")
     
