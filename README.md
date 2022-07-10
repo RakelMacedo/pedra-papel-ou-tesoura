@@ -1,5 +1,18 @@
-# pedra-papel-ou-tesoura
-O jogo "pedra papel ou tesoura" em Python
+## 👊🏼 ✋🏼✌🏼 pedra-papel-ou-tesoura
+O jogo "pedra papel ou tesoura" em Python para ser jogado através do terminal. =)
+
+### 🔨 Como executar:
+
+1) Clone o repositório e vá para a sua pasta:
+```
+$ git clone https://github.com/RakelMacedo/pedra-papel-ou-tesoura.git
+
+$ cd pedra-papel-ou-tesoura/
+```
+2) Agora, execute:
+```
+$ python3 main.py
+```
 
 ### Exemplo de uso:
 
